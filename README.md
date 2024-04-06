@@ -29,4 +29,4 @@ This repository contains Python code for a classification model to predict the p
 - The classification models are evaluated based on their accuracy in predicting the price range of mobile phones.
 - The best-performing model is determined based on its accuracy score on the test data.
 
-For any questions or further details, please refer to the code files in this repository or contact the repository owner.
+For any questions or further details, please refer to the code files in this repository or contact Omar Salman.
